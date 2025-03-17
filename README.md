@@ -1,6 +1,5 @@
-👋 Hi, I’m @Clara-Casabona, a PHD Student at the Integrative Ecology Lab, Université de Sherbrooke. 
+👋 Hi, I’m @Clara-Casabona, a research professional at Université Laval.
 
-👀 I’m interested in ecology, statistical modelling, biodiversity change, population dynamics and open science.
+👀 I’m interested in ecology, statistical modeling, biodiversity change, population dynamics, and open science.
 
-🌱 I’m currently building an R package to estimate extinctions and colonization probabilities for species
-.
+🌱 I’m currently working with Biodiversité Québec
